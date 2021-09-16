@@ -34,13 +34,23 @@
 			>, <a href="https://github.com/developer-dao" target="_blank">Developer DAO</a>,
 			<a href="https://github.com/dailydotdev/apps" target="_blank">daily.dev</a>
 		</p>
+
+		<p>
+			> 🔨 What I can build for you: A full-stack web app, an ethereum smart contract, a Chrome
+			extension, a Discord bot & more!
+		</p>
+
+		<p>> Impressed? 👀 Let's talk! 👇🏼</p>
+
+		<div class="flex gap-4">
+			<a href="mailto:dhaiwatpandya@gmail.com" target="_blank">Email</a>
+			<a href="https://github.com/dhaiwat10" target="_blank">Github</a>
+		</div>
 	</div>
 </main>
 
 <style>
 	a {
-		/* color: #00b2e2; */
-		text-decoration: underline;
-		text-decoration-color: rgb(48, 180, 103);
+		border-bottom: 1px solid rgb(48, 180, 103);
 	}
 </style>
